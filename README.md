@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Computer Engineer @ KMUTT
 - 📫 How to reach me https://www.facebook.com/reawjang.wong
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/MrBlobfish.png" alt="TryHackMe">
-
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=Purinut&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
 <img width=1200 src="https://github.com/30675/run-snake/blob/output/github-contribution-grid-snake-dark.svg" />
